@@ -2,16 +2,11 @@
 
 ### About me
 
-I grew up splitting time between Austin, TX and Mexico; After high school, I lived
-in Germany for a year as a student. My time in these places taught me to
-appreciate the relationships between cultures, languages, and how these color
-people's stories.
+I grew up splitting time between Austin, TX, and San Luis Potosi, Mexico. After high school, I spent a year living with a host family in Germany. My time in these places taught me to appreciate the relationships between the many things that color our daily lives and shape our behavior. As a developer, I use this adeptness to create equitable, enjoyable software.
+ 
+I decided to join the tech industry because it seemed a good fit for my natural linguistic skills and analytical mind. My initial passion for software development came from problem-solving and the deep thinking required to accomplish a task. As I gained experience, this passion matured to include the potential to bring people together by applying all that I have learned through my life and travels. It's become less about problem-solving and more about learning from people to affect their lives for the better.
 
-I view Software as the translation point for the stories told between machines
-and humans. Like spoken languages, programming languages have unique qualities
-that make them ideal for different situations. As a burgeoning developer,
-I seek to understand these qualities to create performant software that's
-enjoyable for the user, and easy to maintain by other developers.
+
 <!--
 **edmdc89/edmdc89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
